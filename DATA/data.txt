@@ -1,0 +1,240 @@
+1. Company Overview
+
+Mentor Bro is a technology-focused mentorship and career development platform headquartered in Calicut, Kerala, India. The organization is built with a mission to transform aspiring developers into highly skilled, industry-ready professionals through deep conceptual training and practical implementation.
+
+Mentor Bro focuses on real engineering knowledge, architecture-level understanding, and long-term career growth rather than superficial tool-based learning. The platform emphasizes practical exposure, real-world project development, and strong foundational understanding of software systems.
+
+2. Programs and Courses Offered by Mentor Bro
+
+Mentor Bro provides the following programs and courses:
+
+1. AI Master Camp
+2. Advanced AI Engineering
+3. MERN Stack
+4. MEAN Stack
+5. Python Django
+
+These are the complete list of programs and courses currently provided by Mentor Bro.
+
+3. Headquarters
+
+Location: Calicut, Kerala, India
+
+Operates primarily as an online mentorship platform serving students across regions.
+
+4. Mission
+
+To equip learners with strong technical foundations, real-world development experience, and architecture-level understanding so they can succeed confidently in the modern tech industry.
+
+5. Vision
+
+To build a generation of developers who understand how technology works internally — not just how to use tools — and who can confidently build scalable, production-ready systems.
+
+6. High Demand Program – AI MASTER CAMP
+Overview
+
+AI MASTER CAMP is currently the most in-demand and flagship program at Mentor Bro.
+
+This course is designed specifically for developers who want deep, realistic knowledge of Artificial Intelligence. It goes far beyond surface-level AI tool demonstrations and focuses on true technical understanding.
+
+What Makes AI MASTER CAMP Different
+
+Unlike many AI courses in the market that:
+
+Focus mainly on AI tools
+
+Teach prompt tricks
+
+Use hype-driven marketing
+
+Provide shallow explanations
+
+Do not explain internal AI architecture
+
+AI MASTER CAMP is structured to:
+
+Teach how AI works behind the scenes
+
+Explain model architecture fundamentals
+
+Cover neural network basics and core ML principles
+
+Break down AI system design
+
+Show how AI integrates with backend systems
+
+Develop real-world AI-based applications
+
+Build conceptual clarity for long-term career growth
+
+Core Focus Areas
+
+Foundations of Artificial Intelligence
+
+Machine Learning fundamentals
+
+Deep Learning basics
+
+Neural network concepts
+
+Model architecture understanding
+
+AI system design principles
+
+Backend integration of AI services
+
+Real-world AI implementation workflows
+
+Career Impact
+
+AI MASTER CAMP aims to:
+
+Strengthen developers in the AI era
+
+Build architecture-level understanding
+
+Prepare learners for AI-focused job roles
+
+Help developers stand out as strong technical candidates
+
+Move beyond surface-level prompt engineering
+
+Develop long-term career adaptability in evolving AI ecosystems
+
+This program positions students as serious AI-capable developers rather than casual AI tool users.
+
+7. Other Mentorship Programs
+
+Advanced AI Engineering
+
+Advanced program for developers who want to go deeper into AI engineering, covering advanced topics in AI system design, deployment, and optimization.
+
+MERN Stack Mentorship
+
+Covers full-stack development using:
+
+MongoDB
+
+Express.js
+
+React.js
+
+Node.js
+
+Focus areas include:
+
+Frontend development
+
+Backend architecture
+
+Database design
+
+API development
+
+Real-world project building
+
+MEAN Stack Mentorship
+
+Covers:
+
+MongoDB
+
+Express.js
+
+Angular
+
+Node.js
+
+Focuses on scalable application development and production-ready systems.
+
+Python Django Mentorship
+
+Covers:
+
+Python programming
+
+Django framework
+
+Backend architecture
+
+Database integration
+
+Web application deployment
+
+8. Teaching Philosophy
+
+Mentor Bro follows a mentorship-driven model focused on:
+
+Deep conceptual clarity
+
+Architecture-first thinking
+
+Real-world project experience
+
+Practical coding assignments
+
+Career-focused guidance
+
+Community-based learning support
+
+The emphasis is always on long-term technical growth rather than short-term trends.
+
+9. Meet Our Mentors
+
+Mentor Bro is guided by a diverse team of passionate developers and educators who actively mentor students.
+
+Mentoring Team
+
+Fazil – Mentor
+
+Abbaas – Mentor
+
+Rifan – Mentor
+
+Jishna – Mentor
+
+Ajmal – Mentor
+
+Anagha – Mentor
+
+Risvan – Mentor
+
+Sarath – Mentor
+
+Arshaq – Mentor
+
+Rashid – Mentor
+
+Siraj – Mentor
+
+Suhail – Mentor
+
+These mentors support students through technical training, project guidance, architecture discussions, and career preparation.
+
+10. Enrollment Process
+
+Student submits inquiry form
+
+Mentor Bro team contacts the candidate
+
+Course explanation and guidance
+
+Enrollment confirmation
+
+11. Contact Information
+
+Phone Number: +91 8157867616
+
+Email: mentorbroconnect@gmail.com
+
+Headquarters: Calicut, Kerala, India
+
+12. Social Media Presence
+
+Instagram: https://www.instagram.com/your_mentor_bro
+
+YouTube: https://www.youtube.com/@mentor_bro_learning
+
+LinkedIn: https://www.linkedin.com/company/mentor-bro
+
+Mentor Bro uses social platforms to share educational content, updates, and learning resources.

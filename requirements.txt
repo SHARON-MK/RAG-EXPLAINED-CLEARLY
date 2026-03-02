@@ -1,0 +1,14 @@
+# MENTOR BRO RAG System - Python Dependencies
+# Install these with: pip install -r requirements.txt
+
+# Flask - Simple web framework for our backend API
+flask==3.0.0
+
+# Pinecone - Vector database for storing and searching text chunks
+pinecone>=3.0.0
+
+# Requests - For making HTTP calls to Ollama
+requests==2.31.0
+
+# Python-dotenv - Load environment variables from .env file
+python-dotenv==1.0.0
